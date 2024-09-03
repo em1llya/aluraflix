@@ -8,3 +8,10 @@ header {
     font-size: 32px;
     color: rgb(194, 67, 150);
 }
+section {
+    background: rgb(244, 243, 245);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
